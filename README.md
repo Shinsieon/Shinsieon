@@ -2,7 +2,7 @@
 <a href ="https://gmail.com/"><img src="https://img.shields.io/badge/Coolguysiun@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
   
-### 어떻게 하면 좋은 서비스를 만들 수 있을까 고민하는 개발자입니다 😏
+### 좋은 서비스를 만들기위해 고민하는 개발자입니다 😏
 
 주변에서 발생하는 문제를 관찰하고 해결하기 위해 고민을 합니다.   
 이를 위한 **프로그래밍**은 제가 가장 좋아하는 도구입니다.   
